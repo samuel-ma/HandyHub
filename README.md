@@ -19,3 +19,11 @@ By creating a virtual marketplace for blue-collar workers, this platform helps s
 # App built with
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,mongodb,xd,scss,nodejs,figma,react,express,vercel,netlify&theme=light)](https://skillicons.dev)
+
+### Front-End built with 
+<ul>
+  <li>React<li/>
+  <li>SCSS<li/>
+  <li>Styled Components<li/>
+  <li>Javascript<li/>
+</ul>

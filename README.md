@@ -18,4 +18,4 @@ By creating a virtual marketplace for blue-collar workers, this platform helps s
 
 # App built with
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,mongodb,xd,nodejs,figma,react,scss,express,vercel,netlify&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,mongodb,xd,scss,nodejs,figma,react,express,vercel,netlify&theme=light)](https://skillicons.dev)

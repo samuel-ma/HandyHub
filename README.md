@@ -1,5 +1,7 @@
 # HandyHub
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
 A blue-collar online marketplace is a digital platform that connects skilled and semi-skilled workers with potential employers.
 <br/>
 

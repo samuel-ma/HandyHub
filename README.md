@@ -15,3 +15,7 @@ Meanwhile, employers can browse through worker profiles, view their ratings and 
 <br/>
 
 By creating a virtual marketplace for blue-collar workers, this platform helps streamline the hiring process and provides an efficient and cost-effective way for employers to find the right workers for their job.
+
+# App built with
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,html5,css3&theme=light)](https://skillicons.dev)

@@ -22,8 +22,16 @@ By creating a virtual marketplace for blue-collar workers, this platform helps s
 
 ### Front-End built with 
 <ul>
-  <li>React<li/>
-  <li>SCSS<li/>
-  <li>Styled Components<li/>
-  <li>Javascript<li/>
+  <li>React
+  <li>SCSS
+  <li>Styled Components
+  <li>Javascript
+</ul>
+
+### Back-End built with 
+<ul>
+  <li>Express
+  <li>Node
+  <li>MongoDB
+  <li>Mongoose
 </ul>

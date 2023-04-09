@@ -20,7 +20,7 @@ By creating a virtual marketplace for blue-collar workers, this platform helps s
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,mongodb,xd,scss,nodejs,figma,react,express,vercel,netlify&theme=light)](https://skillicons.dev)
 
-### Front-End built with 
+### FrontEnd built with 
 <ul>
   <li>React
   <li>SCSS
@@ -28,10 +28,16 @@ By creating a virtual marketplace for blue-collar workers, this platform helps s
   <li>Javascript
 </ul>
 
-### Back-End built with 
+### BackEnd built with 
 <ul>
   <li>Express
   <li>Node
   <li>MongoDB
   <li>Mongoose
 </ul>
+
+### FrontEnd Hosted on
+Vercel and Netlify
+
+### BackEnd Hosted on
+Firebase
